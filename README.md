@@ -4,7 +4,7 @@
 
 ------
 
-<font color="red">此仓库已永久迁移到</font> https://github.com/re-zero-khis/re0-web
+**此仓库已永久迁移到** https://github.com/re-zero-khis/re0-web
 
 ------
 
