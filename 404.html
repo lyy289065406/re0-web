@@ -9,6 +9,7 @@
         var domain = "rezero.buzz";
         var current = window.location.href;
         var target = current.substring(current.indexOf('/', current.indexOf(':') + 3));
+        target = target.replace('/re0-web', '');
         window.location.href = "//" + domain + target;
         location.href = "//" + domain + target;
     </script>
